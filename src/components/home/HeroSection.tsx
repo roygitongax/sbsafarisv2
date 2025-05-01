@@ -8,7 +8,7 @@ const HeroSection = () => {
       {/* Hero Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/public/lions-home-comp.webp" 
+          src="/lions-home-comp.webp" 
           alt="Safari Experience Background" 
           className="w-full h-full object-cover"
         />
