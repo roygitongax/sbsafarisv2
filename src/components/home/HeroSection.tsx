@@ -8,8 +8,8 @@ const HeroSection = () => {
       {/* Hero Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/hero-image.jpg" 
-          alt="Sakabaka Safari Experience" 
+          src="/public/lions-home-comp.webp" 
+          alt="Safari Experience Background" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-safari-950/80 to-safari-950/30" />
