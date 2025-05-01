@@ -31,7 +31,7 @@ const Navbar = () => {
       <div className="safari-container flex justify-between items-center">
         <Link to="/" className="flex items-center">
           <img 
-            src="/logo.png" 
+            src="/public/upsca-SBA Logo2 .webp" 
             alt="Sakabaka Safaris Logo" 
             className={cn(
               'transition-all duration-300',
